@@ -13,3 +13,6 @@
 **Today's Progress:** Added some copy to my portfolio site and positioned the content for the front page.
 
 **Thoughts:** I crashed hard yesterday. I spent a good part of the day sleeping and watching YouTube videos. By the time I went to bed, I hadn't typed a single line of code. I felt like a complete failure--but after some journaling, I resolved to pick myself up and try again the next day. I'm glad I did. With the help of some peppy video game music, my portfolio is starting to look like an actual website now. 
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
