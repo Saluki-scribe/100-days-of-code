@@ -16,3 +16,11 @@
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
 
+### Day 3: January 4, 2018
+
+**Today's Progress:** Created and formatted the footer for main portfolio page, along with social media icons/links.
+
+**Thoughts:** I didn't expect to get anything done today. I've been so unsure about where I want to take my web development career: freelance or full time? It's been eating up a lot of my energy. But I told myself that if I just did *one* line of code today, that would be enough. And I ended up coding and formatting the rest of the home page layout. I'm starting to feel energized again. 
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
