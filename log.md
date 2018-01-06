@@ -24,3 +24,11 @@
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
 
+### Day 4: January 5, 2018
+
+**Today's Progress:** Replaced some of my CSS formatting with Bootstrap, and added an achievements section.
+
+**Thoughts:** Today was my first good coding day. As in, I got an early start, worked on it much longer than I had to, and even found some moments of flow. My online portfolio is now quite the sleek and responsive little site. I'm starting to feel hopeful that I'll be finished by Sunday!
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
