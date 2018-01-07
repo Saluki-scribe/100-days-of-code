@@ -32,3 +32,10 @@
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
 
+### Day 5: January 6, 2018
+
+**Today's Progress:** Added a Contact Me section to portfolio website.
+
+**Thoughts:** I mostly relaxed today, but I did add a "Contact Me" section. Planning to build it out more tomorrow.
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
