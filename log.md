@@ -39,3 +39,11 @@
 **Thoughts:** I mostly relaxed today, but I did add a "Contact Me" section. Planning to build it out more tomorrow.
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
+### Day 6: January 7, 2018
+
+**Today's Progress:** Created a basic contact form.
+
+**Thoughts:** I'm going to make weekends official low-pressure days from now on. All I did was add a very basic contact form with minimal styling. Tomorrow, I'll style the form and finish up the website.
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
