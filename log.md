@@ -48,7 +48,7 @@
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
 
-### Day 6: January 7, 2018
+### Day 7: January 8, 2018
 
 **Today's Progress:** Styled contact form, added carousel of achievements, added pictures for About section and portfolio.
 
