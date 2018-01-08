@@ -47,3 +47,11 @@
 **Thoughts:** I'm going to make weekends official low-pressure days from now on. All I did was add a very basic contact form with minimal styling. Tomorrow, I'll style the form and finish up the website.
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
+### Day 6: January 7, 2018
+
+**Today's Progress:** Styled contact form, added carousel of achievements, added pictures for About section and portfolio.
+
+**Thoughts:** Wow. The difference that waking up at 7:00 AM and coding first thing in the morning makes is astounding! I made more than twice as many commits as I have since starting this challenge, and finished coding everything for my website! I'll make some style adjustments tomorrow, then move on to the next project!
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
