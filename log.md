@@ -55,3 +55,11 @@
 **Thoughts:** Wow. The difference that waking up at 7:00 AM and coding first thing in the morning makes is astounding! I made more than twice as many commits as I have since starting this challenge, and finished coding everything for my website! I'll make some style adjustments tomorrow, then move on to the next project!
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
+### Day 8: January 9, 2018
+
+**Today's Progress:** Adjusted portfolio section. Worked on carousel.
+
+**Thoughts:** I spent most of my coding time trying to get the carousel I coded to work properly. I didn't success, but then, I didn't spend much time coding today. Most of my breakthroughs came from my fiction. Other than the carousel, I finalized my portfolio section and decided on an alternate layout, if I can't get the carousel working tomorrow.
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
