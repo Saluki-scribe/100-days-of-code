@@ -60,6 +60,14 @@
 
 **Today's Progress:** Adjusted portfolio section. Worked on carousel.
 
-**Thoughts:** I spent most of my coding time trying to get the carousel I coded to work properly. I didn't success, but then, I didn't spend much time coding today. Most of my breakthroughs came from my fiction. Other than the carousel, I finalized my portfolio section and decided on an alternate layout, if I can't get the carousel working tomorrow.
+**Thoughts:** I spent most of my coding time trying to get the carousel I coded to work properly. I didn't succeed, but then, I didn't spend much time coding today. Most of my breakthroughs came from my fiction. Other than the carousel, I finalized my portfolio section and decided on an alternate layout, if I can't get the carousel working tomorrow.
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
+### Day 9: January 10, 2018
+
+**Today's Progress:** Styling. Worked on carousel a bit more.
+
+**Thoughts:** Today was full of outside distractions--everyone demanding my time. I'm going to continue to work early, and then I'll try going to the library after lunch. But I did experiment with website layout, and worked a bit more on the carousel. Not much progress on either one. 
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
