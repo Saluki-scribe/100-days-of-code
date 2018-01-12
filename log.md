@@ -71,3 +71,15 @@
 **Thoughts:** Today was full of outside distractions--everyone demanding my time. I'm going to continue to work early, and then I'll try going to the library after lunch. But I did experiment with website layout, and worked a bit more on the carousel. Not much progress on either one. 
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
+### Day 10: January 11, 2018
+
+**Today's Progress:** Fixed carousel. Redid About Me layout. Redid portfolio layout. Launched website via FTP. 
+
+**Thoughts:** I had some serious wins today. I got the Bootstrap carousel to work (I had the wrong version of the JS Bootstrap CDN)! And then I ended up removing it and redoing my layout, haha. Better web design skills would have shaved so much time off of this project... If I wasn't so eager to increase my skills in backend development, pretty much everything that has to do with servers, and Android/app development, I'd be studying web design in earnest. 
+
+But I learned a lot in the process of coding things I ultimately didn't need, so when I _do_ need a carousel, it won't take me three days to figure out how to make it work (hopefully). And I finally finished my portfolio and got it live via FTP! Moving on to new things tomorrow. 
+
+**Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
+
+
