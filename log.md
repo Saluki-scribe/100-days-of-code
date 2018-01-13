@@ -82,4 +82,12 @@ But I learned a lot in the process of coding things I ultimately didn't need, so
 
 **Link to work:** [My Portfolio](https://saluki-scribe.github.io/my-portfolio/)
 
+### Day 11: January 12, 2018
+
+**Today's Progress:** Finished beginning PHP Udemy course section, created simple PHP & HTML/CSS app
+
+**Thoughts:** I had waaay too much fun with today's coding session. I needed to put in some serious study time with PHP, so I took a beginner's course to refresh myself with the basic concepts. Then I made a little app that takes in recipes and spits them out as monstrous recipes by changing some common ingredients like pepper into horro fixtures like "graveyard dirt." This is what happens when a dark fantasy/horror writer codes.
+
+**Link to work:** [PHP Folder](https://github.com/Saluki-scribe/misc)
+
 
