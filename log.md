@@ -90,4 +90,11 @@ But I learned a lot in the process of coding things I ultimately didn't need, so
 
 **Link to work:** [PHP Folder](https://github.com/Saluki-scribe/misc)
 
+### Day 12: January 13, 2018
+
+**Today's Progress:** Got through a little part of Web Hosting 101 course.
+
+**Thoughts:** All I did today was go through a small part of Web Hosting 101 on Udemy. But weekends are my low key days, so I'm not going to chide myself for it.
+
+**Link to work:** 
 
