@@ -98,3 +98,8 @@ But I learned a lot in the process of coding things I ultimately didn't need, so
 
 **Link to work:** 
 
+**Today's Progress:** Completed part of Lesson 2 Udacity Scholarship course.
+
+**Thoughts:** I'll be out for most of the day today, so I did my coding early. I worked on my Udacity scholarship course, and was excited to learn that we'd be working with Node.js. Spent most of my time troubleshooting npm install errors, but got the app running! 
+
+**Link to work:** 
